@@ -1,0 +1,15 @@
+module.exports = {
+    ACCOUNT_NOT_EXIST: "Account does not exist.",
+    ACCOUNT_IN_REVIEW: "Your account is under our review.",
+    PASSWORD_IS_CORRECT: "Password is not correct.",
+    INCORRECT_PASSWORD: "Incorrect password.",
+    ACCOUNT_EXISTING_BY_EMAIL: "You've already registered an account with this email. Please log in using your email and password.",
+    EMAIL_NOT_EXIST: "Email don't exist",
+    USERID_NOT_EXIST: "User don't exist",
+    USERID_NOT_APPROVED: "User isn't approved by admin",
+    TOKEN_INVALID: "Token is invalid",
+    TOKEN_EXPIRED: "Token is expired",
+    PROPERTY_NOT_EXIST: "Property don't exist",
+    PROPERTY_IS_EXIST: "Property is already exist",
+    USER_NOT_ACTIVE: "User isn't actived",
+}
